@@ -1,70 +1,210 @@
 <div align="center">
 
-# 👨‍💻 Bryan Calderón
+# Bryan Calderón Herrera
 
-### Cybersecurity Analyst | Network Security | SOC Operations | Blue Team
+### Cybersecurity Analyst | Network Security | SOC Operations | SIEM | Incident Response | Threat Detection
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Analyst;Network+Security+Specialist;SOC+%26+Threat+Detection;Active+Directory+Security;Cloud+Security+AWS+%26+Azure" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+Starts+with+the+Network;From+Networking+to+Cybersecurity;Building+Practical+Security+Labs" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Cybersecurity professional with experience in telecommunications, network infrastructure, system administration and security operations.
+Ingeniero de Redes y Telecomunicaciones con experiencia práctica en infraestructura de redes, conectividad, resolución de incidencias y entornos de telecomunicaciones.
 
-Focused on:
+Mi experiencia en networking e infraestructura constituye la base de mi evolución profesional hacia la ciberseguridad defensiva, especialmente en Security Operations, seguridad de redes, monitorización y respuesta ante incidentes.
 
-🔹 Security Operations Center (SOC)
+Trabajo con entornos Linux, virtualización, Active Directory, SIEM, análisis de vulnerabilidades y documentación técnica.
 
-🔹 Threat Detection & Monitoring
-
-🔹 Incident Response
-
-🔹 Vulnerability Management
-
-🔹 Active Directory Security
-
-🔹 Cloud Security
-
-🔹 Network Security
+Actualmente continúo desarrollando laboratorios prácticos para reforzar mis competencias en SOC, Blue Team y Cloud Security.
 
 ---
 
-## 🛡️ Core Skills
+## Core Technical Skills
 
-<table>
-<tr>
-<td valign="top">
+### Networking & Network Infrastructure
 
-### Security
+- TCP/IP
+- VLAN
+- Routing & Switching
+- DNS
+- DHCP
+- NAT
+- VPN IPsec
+- Network Troubleshooting
+- MikroTik
+- Cisco
+- Huawei
 
-* SIEM
-* Incident Response
-* Threat Hunting
-* Vulnerability Assessment
-* Security Monitoring
-* Risk Analysis
+### Systems & Infrastructure
 
-</td>
+- Linux
+- Windows Server
+- Active Directory
+- GPO
+- SSH
+- Samba
+- Virtualization
 
-<td valign="top">
+### Security Operations & SIEM
 
-### Infrastructure
+- Wazuh
+- Splunk
+- Log Analysis
+- Security Monitoring
+- Alert Analysis
+- Incident Response
 
-* Active Directory
-* Windows Server
-* Linux
-* DNS
-* VLAN
-* Network Segmentation
+### Vulnerability Management
 
-</td>
-</tr>
-</table>
+- Nmap
+- Nessus
+- OpenVAS
+- Vulnerability Assessment
+- Remediation
+- CVSS fundamentals
+
+### Network Security
+
+- Wireshark
+- Snort
+- Suricata
+- Firewalls
+- Network Segmentation
+
+### Security & Analysis
+
+- OSINT
+- Maltego
+- Autopsy
+- Digital Forensics
+- Evidence Analysis
+- OWASP Top 10
+
+### Scripting & Development Tools
+
+- Bash
+- PowerShell
+- Git
+- GitHub
+
+### Cloud
+
+- AWS — practical cybersecurity labs
 
 ---
+
+## Currently Learning
+
+- Docker & Containerization
+- SOC Operations
+- Blue Team methodologies
+- Cloud Security
+
+---
+
+## 📂Featured Projects
+
+### 🔍 SOC Detection Lab
+
+Practical laboratory focused on security monitoring, log analysis and detection of suspicious activity.
+
+**Technologies / concepts:**
+
+- Wazuh
+- Splunk
+- Log analysis
+- Security alerts
+- Event monitoring
+- Incident investigation
+
+---
+
+### 🏢 Active Directory Security Lab
+
+Laboratory focused on building and securing a Windows domain environment.
+
+**Technologies / concepts:**
+
+- Active Directory
+- Windows Server
+- Users & Groups
+- GPO
+- DNS
+- DHCP
+- Access Control
+- Least Privilege
+
+---
+
+### 🚨 Threat Analysis & Remediation
+
+Cybersecurity laboratory focused on analysing potential threats, investigating indicators and documenting remediation actions.
+
+**Activities:**
+
+- Threat investigation
+- IOC analysis
+- Evidence collection
+- Incident investigation
+- Technical documentation
+- Remediation procedures
+
+---
+
+### 📊 Vulnerability Management Lab
+
+Laboratory focused on identifying, analysing and documenting vulnerabilities in controlled environments.
+
+
+---
+
+**Tools:**
+
+- Nmap
+- Nessus
+- OpenVAS
+
+**Workflow:**
+
+Discovery → Vulnerability Assessment → Analysis → Prioritization → Remediation
+
+---
+
+## Professional Background
+
+Before moving deeper into cybersecurity, I worked professionally in networking and telecommunications infrastructure.
+
+This experience provided me with a strong foundation in:
+
+- Network troubleshooting
+- Infrastructure operations
+- Connectivity analysis
+- Incident management
+- SLA-based environments
+- Technical documentation
+- Network configuration
+- Operational decision support
+
+My professional direction connects these areas:
+
+**Networking → Security Operations → Cloud Security**
+
+---
+
+## 📜 Certifications & Education
+
+### Cybersecurity Analyst
+**4Geeks Academy**
+
+Practical cybersecurity training focused on defensive security, vulnerability management, SIEM, Active Directory, traffic analysis and incident response.
+
+### Networking & Telecommunications
+**Universidad de Guayaquil**
+
+Engineering background in networking and telecommunications.
 
 ## ⚙️ Technologies
 
@@ -87,67 +227,29 @@ Focused on:
 
 ---
 
-## 📂 Featured Projects
+## Technical Documentation
 
-### 🔍 SOC Detection Lab
+I document my laboratories with a focus on:
 
-Threat monitoring and detection using Wazuh, log analysis and security event correlation.
+- Architecture
+- Objectives
+- Configuration
+- Commands
+- Evidence
+- Findings
+- Troubleshooting
+- Remediation
+- Lessons learned
 
-### 🏢 Active Directory Security Lab
-
-Hardening, auditing, privilege management and attack detection.
-
-### 🚨 Threat Analysis & Remediation
-
-Incident investigation, IOC analysis and remediation procedures.
-
-### ☁️ AWS Security Lab
-
-IAM, monitoring, cloud hardening and security best practices.
-
-### ☁️ Azure Security Lab
-
-Identity protection, cloud security controls and compliance.
-
-### 📊 Vulnerability Management Lab
-
-Nessus, OpenVAS, CVSS analysis and remediation workflows.
+The goal is not only to complete a laboratory, but to make the technical process understandable and reproducible.
 
 ---
 
-## 📈 GitHub Statistics
+## Professional Focus
 
-<p align="center">
+My focus is to protect network infrastructure while continuing to develop practical cybersecurity capabilities in:
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=cbry-96&show_icons=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbry-96&layout=compact" />
-
-</p>
-
----
-
-## 🎯 2026 Goals
-
-* [ ] ISC2 Certified in Cybersecurity (CC)
-* [ ] CompTIA Security+
-* [ ] Microsoft SC-900
-* [ ] Build Enterprise SOC Lab
-* [ ] Publish 20 Security Writeups
-* [ ] Complete AWS Security Lab
-* [ ] Complete Azure Security Lab
-
----
-
-## 📜 Certifications
-
-🏅 Cybersecurity Analyst – 4Geeks Academy
-
-🏅 Power BI & Dashboards
-
-🎯 ISC2 CC (In Progress)
-
-🎯 Security+ (In Progress)
+**SOC · Blue Team · Incident Response · Vulnerability Management · Network Security · SIEM · Cloud Security**
 
 ---
 
@@ -155,7 +257,7 @@ Nessus, OpenVAS, CVSS analysis and remediation workflows.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/cbcalderonh">
+<a href="https://linkedin.com/in/bcalderonh">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
@@ -170,9 +272,5 @@ Nessus, OpenVAS, CVSS analysis and remediation workflows.
 </p>
 
 ---
-
-<div align="center">
-
-### 🔐 "Security is not a product, but a continuous process."
 
 </div>
