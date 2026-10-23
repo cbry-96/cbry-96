@@ -1,276 +1,121 @@
-<div align="center">
-
 # Bryan Calderón Herrera
 
-### Cybersecurity Analyst | Network Security | SOC Operations | SIEM | Incident Response | Threat Detection
+**Network & Telecommunications Engineer | Cybersecurity**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Security+Starts+with+the+Network;From+Networking+to+Cybersecurity;Building+Practical+Security+Labs" />
+Seguridad de redes · Operaciones SOC · Análisis de vulnerabilidades · Respuesta a incidentes
 
-</div>
-
----
-
-## About Me
-
-Ingeniero de Redes y Telecomunicaciones con experiencia práctica en infraestructura de redes, conectividad, resolución de incidencias y entornos de telecomunicaciones.
-
-Mi experiencia en networking e infraestructura constituye la base de mi evolución profesional hacia la ciberseguridad defensiva, especialmente en Security Operations, seguridad de redes, monitorización y respuesta ante incidentes.
-
-Trabajo con entornos Linux, virtualización, Active Directory, SIEM, análisis de vulnerabilidades y documentación técnica.
-
-Actualmente continúo desarrollando laboratorios prácticos para reforzar mis competencias en SOC, Blue Team y Cloud Security.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bcalderonh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/cbry-96)
 
 ---
 
-## Core Technical Skills
+## Sobre mí
 
-### Networking & Network Infrastructure
+Ingeniero de Redes y Telecomunicaciones con experiencia en infraestructura, conectividad y operaciones de red. Mi trayectoria incluye entornos NOC, comunicaciones satelitales y gestión de incidencias en redes de producción.
 
-- TCP/IP
-- VLAN
-- Routing & Switching
-- DNS
-- DHCP
-- NAT
-- VPN IPsec
-- Network Troubleshooting
-- MikroTik
-- Cisco
-- Huawei
+Actualmente enfocado en **ciberseguridad defensiva**: pentesting, análisis de vulnerabilidades, seguridad de red y documentación técnica de laboratorios reproducibles.
 
-### Systems & Infrastructure
-
-- Linux
-- Windows Server
-- Active Directory
-- GPO
-- SSH
-- Samba
-- Virtualization
-
-### Security Operations & SIEM
-
-- Wazuh
-- Splunk
-- Log Analysis
-- Security Monitoring
-- Alert Analysis
-- Incident Response
-
-### Vulnerability Management
-
-- Nmap
-- Nessus
-- OpenVAS
-- Vulnerability Assessment
-- Remediation
-- CVSS fundamentals
-
-### Network Security
-
-- Wireshark
-- Snort
-- Suricata
-- Firewalls
-- Network Segmentation
-
-### Security & Analysis
-
-- OSINT
-- Maltego
-- Autopsy
-- Digital Forensics
-- Evidence Analysis
-- OWASP Top 10
-
-### Scripting & Development Tools
-
-- Bash
-- PowerShell
-- Git
-- GitHub
-
-### Cloud
-
-- AWS — practical cybersecurity labs
+📍 Barcelona, España
 
 ---
 
-## Currently Learning
+## Laboratorios de ciberseguridad
 
-- Docker & Containerization
-- SOC Operations
-- Blue Team methodologies
-- Cloud Security
+### Repos propios
 
----
+| Proyecto | Descripción |
+|----------|-------------|
+| [pentest-metasploitable-vsftpd](https://github.com/cbry-96/pentest-metasploitable-vsftpd) | Pentesting completo contra Metasploitable 2: explotación de vsftpd 2.3.4 con Metasploit, post-explotación, análisis de riesgo y plan de remediación |
+| [threat-analysis-and-remediation](https://github.com/cbry-96/threat-analysis-and-remediation) | Investigación de amenazas, análisis de IOC (Indicadores de Compromiso), recolección de evidencias y procedimientos de remediación |
+| [Dirty-Cow-Ubuntu-Server-16.04.1](https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1) | Explotación de CVE-2016-5195 (Dirty COW) para escalada de privilegios en Ubuntu Server 16.04.1, con análisis de impacto y mitigación |
+| [dmz-lab-packet-tracer](https://github.com/cbry-96/dmz-lab-packet-tracer) | Arquitectura DMZ en Cisco Packet Tracer con NAT estático, ACLs y segmentación de zonas (Inside/Outside/DMZ) |
+| [dlp-secury-lab](https://github.com/cbry-96/dlp-secury-lab) | Prevención de pérdida de datos (DLP) mediante restricción de USB con Directivas de Grupo en Windows |
 
-## 📂Featured Projects
+### Prácticas del Bootcamp (forks documentados)
 
-### 🔍 SOC Detection Lab
-
-Practical laboratory focused on security monitoring, log analysis and detection of suspicious activity.
-
-**Technologies / concepts:**
-
-- Wazuh
-- Splunk
-- Log analysis
-- Security alerts
-- Event monitoring
-- Incident investigation
+| Proyecto | Descripción |
+|----------|-------------|
+| [incident-report-for-sql-injection](https://github.com/cbry-96/incident-report-for-sql-injection-exercise-project) | Detección y explotación de inyección SQL en DVWA, con informe de incidente siguiendo ISO 27001 |
+| [scan-with-nmap-practice](https://github.com/cbry-96/scan-with-nmap-practice) | Escaneo de red con Nmap: descubrimiento de hosts, detección de servicios, scripts NSE e investigación de CVEs |
+| [set-up-an-SSL-in-openSSL](https://github.com/cbry-96/set-up-an-SSL-in-openSSL-with-a-secure-server) | Configuración de HTTPS con OpenSSL y Apache: generación de clave RSA, CSR, certificado autofirmado y verificación |
 
 ---
 
-### 🏢 Active Directory Security Lab
+## Habilidades técnicas
 
-Laboratory focused on building and securing a Windows domain environment.
+### Demostradas en laboratorios
 
-**Technologies / concepts:**
-
-- Active Directory
-- Windows Server
-- Users & Groups
-- GPO
-- DNS
-- DHCP
-- Access Control
-- Least Privilege
-
----
-
-### 🚨 Threat Analysis & Remediation
-
-Cybersecurity laboratory focused on analysing potential threats, investigating indicators and documenting remediation actions.
-
-**Activities:**
-
-- Threat investigation
-- IOC analysis
-- Evidence collection
-- Incident investigation
-- Technical documentation
-- Remediation procedures
+| Área | Herramientas y tecnologías |
+|------|---------------------------|
+| **Pentesting** | Metasploit, Nmap (NSE scripts), explotación de vulnerabilidades conocidas (CVE) |
+| **Análisis de vulnerabilidades** | Nmap, investigación en NVD/Exploit-DB/Vulners, evaluación de severidad (CVSS) |
+| **Seguridad de red** | DMZ, ACLs, NAT, segmentación de zonas, Wireshark |
+| **Seguridad web** | SQL Injection, OWASP Top 10, DVWA |
+| **Criptografía aplicada** | OpenSSL, PKI (RSA/CSR/X.509), TLS/SSL, Apache mod_ssl |
+| **Seguridad de sistemas** | DLP (GPO), escalada de privilegios, hardening |
+| **Redes** | TCP/IP, VLAN, routing, switching, DNS, DHCP, VPN, troubleshooting |
+| **Equipos de red** | MikroTik (RouterOS), Cisco (Packet Tracer) |
+| **Sistemas** | Linux (Debian, Kali, Ubuntu Server), Windows Server, Active Directory |
+| **Entornos** | VirtualBox, redes internas virtualizadas |
+| **Documentación** | ISO 27001 (informes de incidentes), Markdown, Git/GitHub |
 
 ---
 
-### 📊 Vulnerability Management Lab
+## En formación
 
-Laboratory focused on identifying, analysing and documenting vulnerabilities in controlled environments.
-
-
----
-
-**Tools:**
-
-- Nmap
-- Nessus
-- OpenVAS
-
-**Workflow:**
-
-Discovery → Vulnerability Assessment → Analysis → Prioritization → Remediation
+| Área | Enfoque |
+|------|---------|
+| 🔧 **Cisco CCNA** | Routing & switching, VLSM, sumarización, direccionamiento IPv4, configuración de redes |
+| 🖥️ **Windows Server** | Active Directory, DHCP, DNS, GPO, administración de dominios |
+| 🐍 **Python** | Scripting para automatización y herramientas de seguridad |
+| ☁️ **Cloud Security** | Fundamentos de seguridad en entornos cloud, dirección profesional hacia SOC en la nube |
+| 📊 **Power BI** | Dashboards y visualización de datos |
 
 ---
 
-## Professional Background
+## Educación
 
-Before moving deeper into cybersecurity, I worked professionally in networking and telecommunications infrastructure.
-
-This experience provided me with a strong foundation in:
-
-- Network troubleshooting
-- Infrastructure operations
-- Connectivity analysis
-- Incident management
-- SLA-based environments
-- Technical documentation
-- Network configuration
-- Operational decision support
-
-My professional direction connects these areas:
-
-**Networking → Security Operations → Cloud Security**
+| Titulación | Institución |
+|------------|-------------|
+| **Analista de Ciberseguridad** | 4Geeks Academy, Madrid (2026) |
+| **Ingeniería en Redes y Telecomunicaciones** | Universidad de Guayaquil (2015–2022) |
 
 ---
 
-## 📜 Certifications & Education
+## Experiencia relevante
 
-### Cybersecurity Analyst
-**4Geeks Academy**
-
-Practical cybersecurity training focused on defensive security, vulnerability management, SIEM, Active Directory, traffic analysis and incident response.
-
-### Networking & Telecommunications
-**Universidad de Guayaquil**
-
-Engineering background in networking and telecommunications.
-
-## ⚙️ Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=linux,windows,aws,azure,git,github,bash,powershell,docker" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Wazuh-SIEM-blue" />
-<img src="https://img.shields.io/badge/Splunk-SIEM-green" />
-<img src="https://img.shields.io/badge/Nessus-Vulnerability_Assessment-orange" />
-<img src="https://img.shields.io/badge/OpenVAS-Scanning-red" />
-<img src="https://img.shields.io/badge/Wireshark-Network_Analysis-blue" />
-<img src="https://img.shields.io/badge/Active_Directory-IAM-purple" />
-
-</p>
+- Operaciones NOC y O&M en entornos de telecomunicaciones
+- Comunicaciones satelitales (infraestructura y operación)
+- Gestión de incidencias en redes de producción
+- Infraestructura de red: instalación, configuración y mantenimiento
 
 ---
 
-## Technical Documentation
+## Home Lab
 
-I document my laboratories with a focus on:
-
-- Architecture
-- Objectives
-- Configuration
-- Commands
-- Evidence
-- Findings
-- Troubleshooting
-- Remediation
-- Lessons learned
-
-The goal is not only to complete a laboratory, but to make the technical process understandable and reproducible.
+Laboratorio doméstico activo con **MikroTik hAP ac²** (RouterOS), segmentación de redes (LAB/HOME), firewall y NAT. Entorno de pruebas para prácticas de networking, seguridad y automatización.
 
 ---
 
-## Professional Focus
+## Enfoque profesional
 
-My focus is to protect network infrastructure while continuing to develop practical cybersecurity capabilities in:
+Construyendo un portafolio de ciberseguridad con laboratorios prácticos, documentados y reproducibles. Cada proyecto incluye:
 
-**SOC · Blue Team · Incident Response · Vulnerability Management · Network Security · SIEM · Cloud Security**
+- Objetivo y alcance definidos
+- Entorno y topología documentados
+- Comandos y configuraciones paso a paso
+- Evidencias con capturas
+- Hallazgos con severidad y plan de remediación
 
----
-
-## 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/bcalderonh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:bryaancalderon96@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-</a>
-
-<a href="https://github.com/cbry-96">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-</a>
-
-</p>
+**Dirección:** Network Security → SOC Operations → Cloud Security
 
 ---
 
-</div>
+## Contacto
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bcalderonh)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cbry-96)
+
+---
+
+*Todos los laboratorios se realizan en entornos virtualizados aislados, con fines exclusivamente educativos y de portafolio profesional.*
