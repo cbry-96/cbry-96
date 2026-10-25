@@ -13,7 +13,7 @@ Seguridad de redes · Operaciones SOC · Análisis de vulnerabilidades · Respue
 
 Ingeniero de Redes y Telecomunicaciones con experiencia en infraestructura, conectividad y operaciones de red. Mi trayectoria incluye entornos NOC, comunicaciones satelitales y gestión de incidencias en redes de producción.
 
-Actualmente enfocado en **ciberseguridad defensiva**: pentesting, análisis de vulnerabilidades, seguridad de red y documentación técnica de laboratorios reproducibles.
+Actualmente enfocado en **ciberseguridad defensiva y operaciones SOC**: detección y respuesta con SIEM, análisis de vulnerabilidades, pentesting, seguridad de red y documentación técnica de laboratorios reproducibles.
 
 📍 Barcelona, España
 
@@ -25,11 +25,12 @@ Actualmente enfocado en **ciberseguridad defensiva**: pentesting, análisis de v
 
 | Proyecto | Descripción |
 |----------|-------------|
+| [soc-detection-wazuh-lab](https://github.com/cbry-96/soc-detection-wazuh-lab) | Lab de detección y respuesta SOC con Wazuh 4.14: despliegue del SIEM, FIM en tiempo real, detección de fuerza bruta SSH, respuesta activa (firewall-drop) e informe de incidente, con mapeo MITRE ATT&CK |
 | [pentest-metasploitable-vsftpd](https://github.com/cbry-96/pentest-metasploitable-vsftpd) | Pentesting completo contra Metasploitable 2: explotación de vsftpd 2.3.4 con Metasploit, post-explotación, análisis de riesgo y plan de remediación |
 | [threat-analysis-and-remediation](https://github.com/cbry-96/threat-analysis-and-remediation) | Investigación de amenazas, análisis de IOC (Indicadores de Compromiso), recolección de evidencias y procedimientos de remediación |
 | [Dirty-Cow-Ubuntu-Server-16.04.1](https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1) | Explotación de CVE-2016-5195 (Dirty COW) para escalada de privilegios en Ubuntu Server 16.04.1, con análisis de impacto y mitigación |
 | [dmz-lab-packet-tracer](https://github.com/cbry-96/dmz-lab-packet-tracer) | Arquitectura DMZ en Cisco Packet Tracer con NAT estático, ACLs y segmentación de zonas (Inside/Outside/DMZ) |
-| [dlp-secury-lab](https://github.com/cbry-96/dlp-secury-lab) | Prevención de pérdida de datos (DLP) mediante restricción de USB con Directivas de Grupo en Windows |
+| [dlp-security-lab](https://github.com/cbry-96/dlp-security-lab) | Prevención de pérdida de datos (DLP) mediante restricción de USB con Directivas de Grupo en Windows |
 
 ### Prácticas del Bootcamp (forks documentados)
 
@@ -47,6 +48,7 @@ Actualmente enfocado en **ciberseguridad defensiva**: pentesting, análisis de v
 
 | Área | Herramientas y tecnologías |
 |------|---------------------------|
+| **SIEM / SOC** | Wazuh (SIEM), FIM, detección basada en reglas, respuesta activa (firewall-drop), triaje de alertas, informe de incidentes, MITRE ATT&CK |
 | **Pentesting** | Metasploit, Nmap (NSE scripts), explotación de vulnerabilidades conocidas (CVE) |
 | **Análisis de vulnerabilidades** | Nmap, investigación en NVD/Exploit-DB/Vulners, evaluación de severidad (CVSS) |
 | **Seguridad de red** | DMZ, ACLs, NAT, segmentación de zonas, Wireshark |
